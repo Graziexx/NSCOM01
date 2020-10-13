@@ -1,0 +1,23 @@
+Logged action: UPLOAD
+Date: 2020-04-25 03:11:43.432495
+Params: (512, 'C:/Users/javie/Documents/NSCOM/NSCOM MP/Source Code/RunMe.py', 'RunMe.py', 'octet')
+Message: Initiating WRQ request ('192.168.100.10', 69)/RunMe.py of size 6 KB.
+
+Logged action: Last Packet Reached
+Date: 2020-04-25 03:11:43.509052
+Params: None
+Message: Terminating write...
+
+Logged action: UPLOAD SUCCESS:
+Date: 2020-04-25 03:11:43.544139
+Params: (512, 'C:/Users/javie/Documents/NSCOM/NSCOM MP/Source Code/RunMe.py', 'RunMe.py', 'octet')
+Message: File C:/Users/javie/Documents/NSCOM/NSCOM MP/Source Code/RunMe.py to host ('192.168.100.10', 69), 
+total bytes sent: 4, 
+total retry counts: 0, 
+execution time: 0.04855847358703613 seconds
+
+Logged action: Ending Connection...
+Date: 2020-04-25 03:11:43.584254
+Params: None
+Message: Connection Closed.
+
