@@ -1,4 +1,4 @@
-# NSCOM01
+# TFTP Client - NSCOM01
 TFTP Client
 ```
 College of Computer Studies
