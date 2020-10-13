@@ -15,18 +15,19 @@ The Trivial File Transfer Protocol (TFTP) is a UDP-based application layer proto
 For this project, you will be programming a TFTP client program that complies with these protocol specifications
 
 # Requirements
+```
 •	GUI or a command line-based user interface are acceptable.
 •	User is allowed to specify the server IP address.
 •	Support for both upload and download of binary files 
 •	When uploading:
-o	The program can send any file on the computer to the TFTP server as long as the file is accessible to the user using his / her OS privileges
+     The program can send any file on the computer to the TFTP server as long as the file is accessible to the user using his / her OS privileges
 •	When downloading:
-o	The program must allow the user to provide the filename to use when saving the downloaded file to the client computer
+     The program must allow the user to provide the filename to use when saving the downloaded file to the client computer
 •	Proper error handling which at the minimum should include the following:
-o	Timeout for unresponsive server
-o	Handling of duplicate ACK
-o	User prompt for file not found, access violation, and disk full errors
+     Timeout for unresponsive server
+     Handling of duplicate ACK
+     User prompt for file not found, access violation, and disk full errors
 Support for option negotiation will merit additional points if correctly implemented
 •	Option to specify transfer block size
 •	Communicate transfer size to server when uploading
-
+```
