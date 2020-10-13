@@ -1,6 +1,6 @@
 # NSCOM01
 TFTP Client
-
+```
 College of Computer Studies
 SY 2019-2020
 NSCOM01 Project Specifications
@@ -9,7 +9,7 @@ Objectives:
 This project is formulated as a supplement to classroom instruction for students to demonstrate the following:
 •	Review and comprehend the detailed function and design of network protocols as described in Internet standards documents
 •	Implement a working network application that conforms to Internet standards.
-
+```
 # Background:
 The Trivial File Transfer Protocol (TFTP) is a UDP-based application layer protocol that is used to perform a simple file upload or download within a LAN setting. At present, it is commonly used to transfer network appliance operating system images and configuration files to and from a computer for backup or update purposes. Since it is UDP-based, the TFTP specification includes mechanisms that allow applications to perform simplified reliable and ordered data delivery that would have otherwise been unavailable from the transport layer. The majority of TFTP applications conform to TFTP version2 , which has its specifications documented in RFC 1350 and later extended with additional features using RFCs 2347, 2348 and 2349.
 For this project, you will be programming a TFTP client program that complies with these protocol specifications
